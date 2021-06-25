@@ -1,2 +1,2 @@
-# Spring-Framework-pet-clinic
+# spring-framework-pet-clinic
 Pet clinic application using spring framework
